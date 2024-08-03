@@ -12,7 +12,6 @@ This repository contains the code and analysis for a financial dataset. The data
 - [Correlation Analysis](#correlation-analysis)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
